@@ -9,6 +9,3 @@ paddelOCR, Tesseract, easyOCR관련하여서 공부하는 폴더
 - [PaddleOCR](https://github.com/Minho2003/python_study/tree/main/OCR/paddleOCR)
 - [Tesseract](https://github.com/Minho2003/python_study/tree/main/OCR/Tesseract)
 - [EasyOCR](https://github.com/Minho2003/python_study/tree/main/OCR/easyOCR)
-
-# paddleOCR
-paddleocr ocr -i https://paddle-model-ecology.bj.bcebos.com/paddlex/imgs/demo_image/general_ocr_002.png --use_doc_orientation_classify False --use_doc_unwarping False --use_textline_orientation False
