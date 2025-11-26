@@ -12,10 +12,9 @@
 ---
 
 ## 📂 관련 링크
-- [PaddleOCR](https://github.com/Minho2003/python_study/tree/main/OCR/PaddleOCR)
-- [Tesseract](https://github.com/Minho2003/python_study/tree/main/OCR/Tesseract)
-- [EasyOCR](https://github.com/Minho2003/python_study/tree/main/OCR/EasyOCR)
-
+- [PaddelOCR](https://github.com/Minho2003/ML_study/tree/main/OCR/PaddleOCR)
+- [Tesseract](https://github.com/Minho2003/ML_study/tree/main/OCR/Tesseract)
+- [EasyOCR](https://github.com/Minho2003/ML_study/tree/main/OCR/EasyOCR)
 ---
 
 ## 폴더 구조

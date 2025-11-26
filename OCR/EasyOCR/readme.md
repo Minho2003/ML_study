@@ -6,8 +6,8 @@ paddelOCR, Tesseract, easyOCR관련하여서 공부하는 폴더
 3. 각자 용도랑 특성 정리하기.
 
 ## 📁
-- [PaddleOCR](https://github.com/Minho2003/python_study/tree/main/OCR/PaddleOCR)
-- [Tesseract](https://github.com/Minho2003/python_study/tree/main/OCR/Tesseract)
-- [EasyOCR](https://github.com/Minho2003/python_study/tree/main/OCR/EasyOCR)
+- [PaddelOCR](https://github.com/Minho2003/ML_study/tree/main/OCR/PaddleOCR)
+- [Tesseract](https://github.com/Minho2003/ML_study/tree/main/OCR/Tesseract)
+- [EasyOCR](https://github.com/Minho2003/ML_study/tree/main/OCR/EasyOCR)
 
 # easyOCR
