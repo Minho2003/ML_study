@@ -1,6 +1,8 @@
 개인적으로 공부하고 정리해서 올리는 곳
 
 1. Object Detection
-- YOLO
+- (YOLO)[https://github.com/Minho2003/python_study/tree/feat/Object_Detection]
 2. OCR
-- paddelOCR, Tesseract, easyOCR
+- (PaddelOCR)[https://github.com/Minho2003/python_study/tree/feat/OCR/PaddleOCR]
+- (Tesseract)[https://github.com/Minho2003/python_study/tree/feat/OCR/Tesseract]
+- (EasyOCR)[https://github.com/Minho2003/python_study/tree/feat/OCR/EasyOCR]
