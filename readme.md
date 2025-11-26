@@ -1,6 +1,6 @@
 1. Object Detection
-- [YOLO](https://github.com/Minho2003/python_study/tree/main/Object_Detection)
+- (YOLO)[https://github.com/Minho2003/python_study/tree/feat/Object_Detection]
 2. OCR
-- [PaddleOCR](https://github.com/Minho2003/python_study/tree/main/OCR/paddleOCR)
-- [Tesseract](https://github.com/Minho2003/python_study/tree/main/OCR/Tesseract)
-- [easyOCR](https://github.com/Minho2003/python_study/tree/main/OCR/easyOCR)
+- (PaddelOCR)[https://github.com/Minho2003/python_study/tree/feat/OCR/PaddleOCR]
+- (Tesseract)[https://github.com/Minho2003/python_study/tree/feat/OCR/Tesseract]
+- (EasyOCR)[https://github.com/Minho2003/python_study/tree/feat/OCR/EasyOCR]
