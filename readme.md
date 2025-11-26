@@ -3,4 +3,6 @@
 1. Object Detection
 - [YOLO](https://github.com/Minho2003/python_study/tree/main/Object_Detection)
 2. OCR
-- paddelOCR, Tesseract, easyOCR
+- [PaddelOCR](https://github.com/Minho2003/python_study/tree/main/OCR/paddelOCR)
+- [Tesseract](https://github.com/Minho2003/python_study/tree/main/OCR/Tesseract)
+- [easyOCR](https://github.com/Minho2003/python_study/tree/main/OCR/easyOCR)
