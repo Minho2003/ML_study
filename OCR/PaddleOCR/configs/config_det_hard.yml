@@ -1,6 +1,6 @@
 Global:
   debug: false
-  use_gpu: true
+  use_gpu: false
   epoch_num: 1200
   log_smooth_window: 20
   print_batch_step: 10
@@ -61,9 +61,9 @@ Metric:
 Train:
   dataset:
     name: SimpleDataSet
-    data_dir: ./data/train
+    data_dir: ./train_data/
     label_file_list:
-    - ./data/train/det_label.txt
+    - ./train_data/train_icdar2015_label.txt
     ratio_list:
     - 1.0
     transforms:
@@ -122,15 +122,15 @@ Train:
   loader:
     shuffle: true
     drop_last: false
-    batch_size_per_card: 4
-    num_workers: 4
+    batch_size_per_card: 1
+    num_workers: 0
     use_shared_memory: False 
 Eval:
   dataset:
     name: SimpleDataSet
-    data_dir: ./data/val
+    data_dir: ./train_data/
     label_file_list:
-    - ./data/val/det_label.txt
+    - ./train_data/test_icdar2015_label.txt
     transforms:
     - DecodeImage:
         img_mode: BGR
@@ -161,6 +161,6 @@ Eval:
     shuffle: false
     drop_last: false
     batch_size_per_card: 1
-    num_workers: 2
+    num_workers: 0
     use_shared_memory: False
 profiler_options: null
